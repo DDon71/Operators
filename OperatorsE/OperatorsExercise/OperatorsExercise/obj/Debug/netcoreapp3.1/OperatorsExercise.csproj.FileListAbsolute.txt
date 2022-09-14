@@ -1,0 +1,14 @@
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.deps.json
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.runtimeconfig.dev.json
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.dll
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.pdb
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.dll
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.pdb
+/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNobFRp4qD+E2en6h4cwTH8ME0MrNICmDnp3wbui4IUNLGvcxgPAQ1Hw0IIr2hX1JPoaCwc+N+YeH0LZOM6L6A==",
+  "success": true,
+  "projectFilePath": "/Users/deucey1tap/Desktop/repos/Operators/OperatorsE/OperatorsExercise/OperatorsExercise/OperatorsExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/deucey1tap/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/deucey1tap/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/deucey1tap/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
